@@ -1,0 +1,16 @@
+{
+  "name": "les-2",
+  "version": "0.0.0",
+  "description": "les 2",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {},
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

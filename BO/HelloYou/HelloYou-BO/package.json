@@ -1,0 +1,16 @@
+{
+  "name": "hello-you-bo",
+  "version": "0.0.0",
+  "description": "HelloYou-BO",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {},
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

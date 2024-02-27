@@ -1,0 +1,36 @@
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                    +- <...roept on hulp. (18)> -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+                                                                                                    |                                                                                                                                                                                                                          |
+                             +- <te blijven liggen (14)> -+- <... gaat in de kelder schuilen. (2)> -+- <...probeert de deur open te breken. (21)> -- (0)                                                                                                                                                                       |
+                             |                            |                                         |                                                                                                                                                                                                                          |
+(start game + first choice) -+                            +-----+                                   +- <...wurmt jezelf door het veel te kleine raampje in een poging buiten te geraken. (1)> -+                                                                                                                               |
+                             |                                  |                                                                                                                              |                                                                                                                               |
+                             +- <... naar buiten te gaan.(13)> -+- <...rent de goblin achterna. (5)> -- (0)                                                                                    |                                                                                                                               |
+                                                                |                                                                                                                              |                                                                                                                               |
+                                                                +- <...leest de brief. (19)> -+- <...deze "Uri" te ontmoeten. (12)> -+- <...valt de man aan. (6)> -----------------------------+- <...wacht wat er ook door de deur komt niet langer af en duikt op de plek af waar vermoedelijk een gat in de vloer zit [4]> -+- <je stemt in met het plan, nog steeds zonder goed te weten wat het eigenlijk inhoudt. (10)> --------------------------------------+- <...neemt geen risico's en werpt direct een dwergmarmot naar een struik. (9)> -+- <...laat de koning leven in naam van het goede. (20)> --(0)
+                                                                                              |                                      |                                                         |                                                                                                                               |                                                                                                                                    |                                                                                 |
+                                                                                              |                                      |                                                         +- <...besluit de mensen die op je afkomen rustig uit te horen. ze hebben vast niets dan goeds in de zin. (4)> -----------------+- <je begint een beetje moet te worden van alle geheimzinnigheid en eist opheldering voordat je ook nog maar één poot verzet. [8]> -+- <...besluit dat het je aandacht niet waard is. (15)> -- (0)                    +- <...schiet de hulpeloze man dood in naam van het kwaad. (16)> -- (0)
+                                                                                              |                                      |
+                                                                                              |                                      +- <...hoort de man uit. (3)> -+- <...besluit de volgende Uri die verschijnt zelf neer te slaan en er dan maar het beste van te maken. (11)> -+- (0)
+                                                                                              |                                                                     |
+                                                                                              +- <...het briefje te negeren. (7)> -+- (0)                           +- <...wacht nog even af. (17)> -+- (0)
+
+
+
+
+
+
+
+
+
+
